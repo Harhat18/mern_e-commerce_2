@@ -1,4 +1,7 @@
-# mern_e-commerce_2
+# mern_e-commerce
+
+
+
 # Install Dependencies
 
 **For Backend** - `npm i`
