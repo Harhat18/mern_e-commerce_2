@@ -1,5 +1,6 @@
 # mern_e-commerce
 
+![Ekran Resmi 2023-03-19 20 48 48](https://user-images.githubusercontent.com/111196660/226196958-4d9f24d5-13ae-4c33-8958-cdce8f72881d.png)
 
 
 # Install Dependencies
