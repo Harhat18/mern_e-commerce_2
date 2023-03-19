@@ -1,6 +1,17 @@
-# mern_e-commerce
+# E-COMMERCE PROJECT
+  
+  MongoDB
+  Express.js
+  React.js
+  Node.js
+  
+  
 
 ![Ekran Resmi 2023-03-19 20 48 48](https://user-images.githubusercontent.com/111196660/226196958-4d9f24d5-13ae-4c33-8958-cdce8f72881d.png)
+
+
+https://user-images.githubusercontent.com/111196660/226197185-e82d4fa0-6e7a-4382-bbe0-cf43720be8eb.mp4
+
 
 
 # Install Dependencies
